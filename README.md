@@ -12,6 +12,9 @@
 </p>
 
 ---
+![Nishtha's github stats](https://github-readme-stats.vercel.app/api?username=nishtha0212&show_icons=true&count_private=true&include_all_commits=true)
+
+---
 
 <p align ="Center">
  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
