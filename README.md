@@ -17,6 +17,12 @@
 
 ---
 
+### Spotify Playing 🎧
+ 
+[![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/playlist/1JtSbKu33RjAKEIsLXzM03)
+
+---
+
 <p align ="Center">
  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
