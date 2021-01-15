@@ -1,7 +1,4 @@
-### Hi there 
-
-
-<img alt="GIF" height="45px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
+### Hi there <img alt="GIF" height="45px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 <p align="middle">
 <a href="mailto:kurosakiichigo.songoku@gmail.com?subject=Hello%20nishtha0212,%20From%20Github">
 <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
@@ -20,7 +17,7 @@
 
 ### Spotify Playing 🎧
  
-[![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/playlist/1JtSbKu33RjAKEIsLXzM03)
+[![Spotify](https://spotify-omega.vercel.app/api/spotify)](https://open.spotify.com/playlist/7zEhNp9yc8UaU1HgLLXjcU)
 
 ---
 
