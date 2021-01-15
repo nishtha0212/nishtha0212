@@ -1,7 +1,8 @@
 ### Hi there 
 
-<p align="middle">
+
 <img align="middle" alt="GIF" height="45px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
+<p align="middle">
 <a href="mailto:kurosakiichigo.songoku@gmail.com?subject=Hello%20nishtha0212,%20From%20Github">
 <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
 </a>
