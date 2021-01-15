@@ -1,3 +1,4 @@
+<p align="middle">
 ### Hi World <img alt="GIF" height="45px" src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/source.gif"/>
 <p align="middle">
 <a href="mailto:kurosakiichigo.songoku@gmail.com?subject=Hello%20nishtha0212,%20From%20Github">
