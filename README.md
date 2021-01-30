@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there 👋 
 
 <p align="middle">
 <img align="middle" alt="GIF" height="45px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
@@ -14,7 +14,6 @@
 ---
 
 ![Nishtha's github stats](https://github-readme-stats.vercel.app/api?username=nishtha0212&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-
 ---
 
 ### Spotify Playing 🎧
